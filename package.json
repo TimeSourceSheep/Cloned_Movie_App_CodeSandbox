@@ -1,7 +1,7 @@
 {
-  "name": "cloned-movie-app",
+  "name": "cloned-movie-app-csb",
   "version": "1.0.0",
-  "description": "A Cloned Movie App. (클론코딩 영화 평점 웹서비스)",
+  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
